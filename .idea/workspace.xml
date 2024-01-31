@@ -85,7 +85,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "spring.configuration.checksum": "105ccb1dec3fac1e0815351f71e9f016",
+    "spring.configuration.checksum": "da1c3889348d8e1ce59437a796327710",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -221,7 +221,7 @@
       <workItem from="1706450964263" duration="957000" />
       <workItem from="1706530766286" duration="13904000" />
       <workItem from="1706608862090" duration="136000" />
-      <workItem from="1706698822954" duration="63000" />
+      <workItem from="1706698822954" duration="559000" />
     </task>
     <servers />
   </component>
